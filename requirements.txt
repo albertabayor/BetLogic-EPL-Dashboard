@@ -1,0 +1,17 @@
+# Core dependencies - updated for Python 3.12+ compatibility
+streamlit>=1.28.0
+pandas>=2.1.0
+numpy>=1.25.0
+plotly>=5.17.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Optional: For better visualizations
+seaborn>=0.12.2
+matplotlib>=3.7.2
